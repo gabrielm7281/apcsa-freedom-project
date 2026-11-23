@@ -41,6 +41,11 @@ This just makes some preloaded textures availible to the game. I remember this b
 ```
 I am not entirely sure what these do yet other than seperate code and make it neater but my hypothosis is that its for input controls, and game design stuff as stated in their names. So far it seems fairly straightforward. I haven't looked at the documentation much to see how detailed it is, but so far its a lot nice than Phaser. Next week I want to do one of the YT tutorials and dig deeper into the code. 
 
+### 11/16/26
+* Three bad weeks in a row! I think it was surprisingly productive for how little I did. I think im starting to grasp a lot of the code especially since we are learning about Classes and stuff (which are big parts of any Java library).
+![example](image.png)
+For example, all the code at the top of each snippet seemed very intimidating to me when I was looking at tools to use at the start of the year, but now I understand what they are and what they do. The first one creates the Main class, and attaches a "Listener" onto it for detecting inputs from the keyboard. This is what allows the inside code to attach said inputs to player movement.
+* The next 2 make classes for making and rendering stuff and it just seperates out the code so that it isnt all jumbled together. 
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
